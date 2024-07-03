@@ -6,8 +6,8 @@
         xmlns:local="clr-namespace:WPF_MVVM_"
         mc:Ignorable="d"
         Title="ProductsWindow" Height="450" Width="800">
-    <Grid>
-        <ListView ItemsSource="{Binding Products}">
+    <StackPanel>
+        <ListView ItemsSource="{Binding Products}" Height="100">
             <ListView.View>
                 <GridView>
                     <GridViewColumn Header="ID" DisplayMemberBinding="{Binding Id}" />
@@ -15,5 +15,6 @@
                 </GridView>
             </ListView.View>
         </ListView>
-    </Grid>
+        <Button Content="Execute Action" Command="{Binding ExecuteActionCommand}" />
+    </StackPanel>
 </Window>
