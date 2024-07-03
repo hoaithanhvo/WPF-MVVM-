@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WPF\\WPF(MVVM)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EAEB1D28-423E-4C7B-8BF3-52B93DC112A7}|WPF(MVVM)\\WPF(MVVM).csproj|d:\\wpf\\wpf(mvvm)\\wpf(mvvm)\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAEB1D28-423E-4C7B-8BF3-52B93DC112A7}|WPF(MVVM)\\WPF(MVVM).csproj|solutionrelative:wpf(mvvm)\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAEB1D28-423E-4C7B-8BF3-52B93DC112A7}|WPF(MVVM)\\WPF(MVVM).csproj|d:\\wpf\\wpf(mvvm)\\wpf(mvvm)\\productswindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{EAEB1D28-423E-4C7B-8BF3-52B93DC112A7}|WPF(MVVM)\\WPF(MVVM).csproj|solutionrelative:wpf(mvvm)\\productswindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAEB1D28-423E-4C7B-8BF3-52B93DC112A7}|WPF(MVVM)\\WPF(MVVM).csproj|d:\\wpf\\wpf(mvvm)\\wpf(mvvm)\\viewmodel\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAEB1D28-423E-4C7B-8BF3-52B93DC112A7}|WPF(MVVM)\\WPF(MVVM).csproj|solutionrelative:wpf(mvvm)\\viewmodel\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAEB1D28-423E-4C7B-8BF3-52B93DC112A7}|WPF(MVVM)\\WPF(MVVM).csproj|d:\\wpf\\wpf(mvvm)\\wpf(mvvm)\\productswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EAEB1D28-423E-4C7B-8BF3-52B93DC112A7}|WPF(MVVM)\\WPF(MVVM).csproj|solutionrelative:wpf(mvvm)\\productswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAEB1D28-423E-4C7B-8BF3-52B93DC112A7}|WPF(MVVM)\\WPF(MVVM).csproj|d:\\wpf\\wpf(mvvm)\\wpf(mvvm)\\windowservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAEB1D28-423E-4C7B-8BF3-52B93DC112A7}|WPF(MVVM)\\WPF(MVVM).csproj|solutionrelative:wpf(mvvm)\\windowservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAEB1D28-423E-4C7B-8BF3-52B93DC112A7}|WPF(MVVM)\\WPF(MVVM).csproj|d:\\wpf\\wpf(mvvm)\\wpf(mvvm)\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EAEB1D28-423E-4C7B-8BF3-52B93DC112A7}|WPF(MVVM)\\WPF(MVVM).csproj|solutionrelative:wpf(mvvm)\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAEB1D28-423E-4C7B-8BF3-52B93DC112A7}|WPF(MVVM)\\WPF(MVVM).csproj|d:\\wpf\\wpf(mvvm)\\wpf(mvvm)\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAEB1D28-423E-4C7B-8BF3-52B93DC112A7}|WPF(MVVM)\\WPF(MVVM).csproj|solutionrelative:wpf(mvvm)\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WindowService.cs",
+              "DocumentMoniker": "D:\\WPF\\WPF(MVVM)\\WPF(MVVM)\\WindowService.cs",
+              "RelativeDocumentMoniker": "WPF(MVVM)\\WindowService.cs",
+              "ToolTip": "D:\\WPF\\WPF(MVVM)\\WPF(MVVM)\\WindowService.cs",
+              "RelativeToolTip": "WPF(MVVM)\\WindowService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T17:13:22.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsWindow.xaml.cs",
+              "DocumentMoniker": "D:\\WPF\\WPF(MVVM)\\WPF(MVVM)\\ProductsWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPF(MVVM)\\ProductsWindow.xaml.cs",
+              "ToolTip": "D:\\WPF\\WPF(MVVM)\\WPF(MVVM)\\ProductsWindow.xaml.cs",
+              "RelativeToolTip": "WPF(MVVM)\\ProductsWindow.xaml.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAIAwwBkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T17:13:15.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductsWindow.xaml",
+              "DocumentMoniker": "D:\\WPF\\WPF(MVVM)\\WPF(MVVM)\\ProductsWindow.xaml",
+              "RelativeDocumentMoniker": "WPF(MVVM)\\ProductsWindow.xaml",
+              "ToolTip": "D:\\WPF\\WPF(MVVM)\\WPF(MVVM)\\ProductsWindow.xaml",
+              "RelativeToolTip": "WPF(MVVM)\\ProductsWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-03T17:13:11.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ViewModelBase.cs",
+              "DocumentMoniker": "D:\\WPF\\WPF(MVVM)\\WPF(MVVM)\\ViewModel\\ViewModelBase.cs",
+              "RelativeDocumentMoniker": "WPF(MVVM)\\ViewModel\\ViewModelBase.cs",
+              "ToolTip": "D:\\WPF\\WPF(MVVM)\\WPF(MVVM)\\ViewModel\\ViewModelBase.cs",
+              "RelativeToolTip": "WPF(MVVM)\\ViewModel\\ViewModelBase.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T17:08:31.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "D:\\WPF\\WPF(MVVM)\\WPF(MVVM)\\ViewModel\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "WPF(MVVM)\\ViewModel\\MainViewModel.cs",
+              "ToolTip": "D:\\WPF\\WPF(MVVM)\\WPF(MVVM)\\ViewModel\\MainViewModel.cs",
+              "RelativeToolTip": "WPF(MVVM)\\ViewModel\\MainViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T16:34:24.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\WPF\\WPF(MVVM)\\WPF(MVVM)\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WPF(MVVM)\\MainWindow.xaml",
+              "ToolTip": "D:\\WPF\\WPF(MVVM)\\WPF(MVVM)\\MainWindow.xaml",
+              "RelativeToolTip": "WPF(MVVM)\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-03T16:33:22.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\WPF\\WPF(MVVM)\\WPF(MVVM)\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPF(MVVM)\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\WPF\\WPF(MVVM)\\WPF(MVVM)\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WPF(MVVM)\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T16:33:19.775Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
