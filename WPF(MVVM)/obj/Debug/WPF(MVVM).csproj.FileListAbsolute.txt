@@ -17,3 +17,12 @@ D:\WPF\WPF(MVVM)\WPF(MVVM)\obj\Debug\ProductsWindow.g.cs
 D:\WPF\WPF(MVVM)\WPF(MVVM)\obj\Debug\GeneratedInternalTypeHelper.g.cs
 D:\WPF\WPF(MVVM)\WPF(MVVM)\obj\Debug\ProductsWindow.baml
 D:\WPF\WPF(MVVM)\WPF(MVVM)\bin\Debug\ViewModel\MainViewModel.cs
+D:\WPF\WPF(MVVM)\WPF(MVVM)\obj\Debug\ProductsWindowV1.g.cs
+D:\WPF\WPF(MVVM)\WPF(MVVM)\obj\Debug\ProductsWindowV1.baml
+D:\WPF\WPF(MVVM)\WPF(MVVM)\bin\Debug\EntityFramework.dll
+D:\WPF\WPF(MVVM)\WPF(MVVM)\bin\Debug\EntityFramework.SqlServer.dll
+D:\WPF\WPF(MVVM)\WPF(MVVM)\bin\Debug\EntityFramework.xml
+D:\WPF\WPF(MVVM)\WPF(MVVM)\bin\Debug\EntityFramework.SqlServer.xml
+D:\WPF\WPF(MVVM)\WPF(MVVM)\obj\Debug\WPF(MVVM)_Content.g.cs
+D:\WPF\WPF(MVVM)\WPF(MVVM)\obj\Debug\WPF(MVVM).csproj.Up2Date
+D:\WPF\WPF(MVVM)\WPF(MVVM)\obj\Debug\ResourceXAML\MainResource.baml

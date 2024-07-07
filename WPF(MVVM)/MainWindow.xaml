@@ -8,10 +8,12 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="400">
     <Window.DataContext>
-        <local1:ViewModelBase/>
+        <local1:MainViewModel/>
     </Window.DataContext>
     <Grid>
         <StackPanel>
+            <TextBox x:Name="t"></TextBox>
+            <TextBox Text="{Binding Path=Name, Mode=OneTime}"></TextBox>
             <Button Content="Load Data 1" Command="{Binding OpenProductsWindowCommand}" CommandParameter="LoadData1" />
             <Button Content="Load Data 2" Command="{Binding OpenProductsWindowCommand}" CommandParameter="LoadData2" />
             <Button Content="Load Data 3" Command="{Binding OpenProductsWindowCommand}" CommandParameter="LoadData3" />

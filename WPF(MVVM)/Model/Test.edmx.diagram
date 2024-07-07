@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="39b07fc6d5da425f84396bd3cbbf011a" Name="Diagram1" ZoomLevel="74">
+        <EntityTypeShape EntityType="TESTModel.C__EFMigrationsHistory" Width="1.5" PointX="7.75" PointY="2.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="TESTModel.Category" Width="1.5" PointX="0.75" PointY="4" IsExpanded="true" />
+        <EntityTypeShape EntityType="TESTModel.ChiTietDonHang" Width="1.5" PointX="15.25" PointY="2.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="TESTModel.Customer" Width="1.5" PointX="0.75" PointY="8.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="TESTModel.DonHang" Width="1.5" PointX="13" PointY="6.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="TESTModel.HangHoa" Width="1.5" PointX="13" PointY="2.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="TESTModel.Loai" Width="1.5" PointX="10.75" PointY="3" IsExpanded="true" />
+        <EntityTypeShape EntityType="TESTModel.OrderDetail" Width="1.5" PointX="5.25" PointY="3.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="TESTModel.Order" Width="1.5" PointX="3" PointY="8.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="TESTModel.Product" Width="1.5" PointX="3" PointY="2.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="TESTModel.RoleAction" Width="1.5" PointX="8" PointY="9" IsExpanded="true" />
+        <EntityTypeShape EntityType="TESTModel.Role" Width="1.5" PointX="5.75" PointY="9.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="TESTModel.Supplier" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="TESTModel.sysdiagram" Width="1.5" PointX="0.75" PointY="12.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="TESTModel.Userr" Width="1.5" PointX="2.75" PointY="12.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="TESTModel.UserRole" Width="1.5" PointX="8" PointY="6" IsExpanded="true" />
+        <EntityTypeShape EntityType="TESTModel.User" Width="1.5" PointX="5.75" PointY="12.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="TESTModel.Userss" Width="1.5" PointX="7.75" PointY="12.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="TESTModel.WebAction" Width="1.5" PointX="5.75" PointY="16.125" IsExpanded="true" />
+        <AssociationConnector Association="TESTModel.FK_HangHoa_Loai1" ManuallyRouted="false" />
+        <AssociationConnector Association="TESTModel.FK_DonHangCT_DonHang" ManuallyRouted="false" />
+        <AssociationConnector Association="TESTModel.FK_DonHangCT_HangHoa" ManuallyRouted="false" />
+        <AssociationConnector Association="TESTModel.FK_Orders_Customers" ManuallyRouted="false" />
+        <AssociationConnector Association="TESTModel.FK_HangHoa_Loai_MaLoai" ManuallyRouted="false" />
+        <AssociationConnector Association="TESTModel.FK_OrderDetails_Orders" ManuallyRouted="false" />
+        <AssociationConnector Association="TESTModel.FK_OrderDetails_Products" ManuallyRouted="false" />
+        <AssociationConnector Association="TESTModel.FK_Products_Suppliers" ManuallyRouted="false" />
+        <AssociationConnector Association="TESTModel.FK_Permissions_Actions" ManuallyRouted="false" />
+        <AssociationConnector Association="TESTModel.FK_Permissions_Roles" ManuallyRouted="false" />
+        <AssociationConnector Association="TESTModel.FK_UserRole_Role" ManuallyRouted="false" />
+        <AssociationConnector Association="TESTModel.FK_UserRole_User" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

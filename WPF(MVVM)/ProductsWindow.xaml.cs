@@ -20,10 +20,9 @@ namespace WPF_MVVM_
     /// </summary>
     public partial class ProductsWindow : Window
     {
-        public ProductsWindow(MainViewModel viewModel)
+        public ProductsWindow()
         {
             InitializeComponent();
-            DataContext = viewModel;
         }
     }
 }

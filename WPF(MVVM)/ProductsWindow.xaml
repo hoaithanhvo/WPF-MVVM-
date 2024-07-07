@@ -4,17 +4,35 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WPF_MVVM_"
+        xmlns:local1="clr-namespace:WPF_MVVM_.ViewModel"
         mc:Ignorable="d"
         Title="ProductsWindow" Height="450" Width="800">
+    <Window.DataContext>
+        <local1:ProductViewModel/>
+    </Window.DataContext>
     <StackPanel>
-        <ListView ItemsSource="{Binding Products}" Height="100">
+        <ListView ItemsSource="{Binding Products}" Height="300">
             <ListView.View>
                 <GridView>
                     <GridViewColumn Header="ID" DisplayMemberBinding="{Binding Id}" />
                     <GridViewColumn Header="Name" DisplayMemberBinding="{Binding Name}" />
+                    <GridViewColumn Header="Age" DisplayMemberBinding="{Binding UnitBrief}" />
+                    <GridViewColumn Header="Age" DisplayMemberBinding="{Binding UnitPrice}" />
+                    <GridViewColumn Header="Age" DisplayMemberBinding="{Binding Description}" />
+                    <GridViewColumn Header="Age" DisplayMemberBinding="{Binding Image}" />
+                    <GridViewColumn Header="Age" DisplayMemberBinding="{Binding SupplierId}" />
                 </GridView>
             </ListView.View>
         </ListView>
-        <Button Content="Execute Action" Command="{Binding ExecuteActionCommand}" />
+        <TextBox Text="{Binding YearDay, FallbackValue='trống', Mode=OneWay}" />
+        <TextBox Text="{Binding Serial, FallbackValue='Serial'}" />
+        <Button Content="ExecuteActionCommand" Command="{Binding OpenProductsWindowCommand}" CommandParameter="ExecuteActionCommand" />
+        <Button Content="SendDataCommand" Command="{Binding OpenProductsWindowCommand}" CommandParameter="SendDataCommand" />
+        <Button Content="Print" Command="{Binding OpenProductsWindowCommand}" CommandParameter="Print" />
+        <Button Content="PrintInventory" Command="{Binding OpenProductsWindowCommand}" CommandParameter="PrintInventory" />
+        <Button Content="PrintInventory" Command="{Binding OpenProductsWindowCommand}" CommandParameter="PrintInventory" />
+        <Button Content="RePrint" Command="{Binding OpenProductsWindowCommand}" CommandParameter="RePrint" />
+        <Button Content="PrintHoliday" Command="{Binding OpenProductsWindowCommand}" CommandParameter="PrintHoliday" />
+        <Button Content="PrintSample" Command="{Binding OpenProductsWindowCommand}" CommandParameter="PrintSample" />
     </StackPanel>
 </Window>
